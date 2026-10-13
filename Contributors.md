@@ -3,8 +3,9 @@
 - [pankaj-2708](https://github.com/pankaj-2708)
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
--[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
+[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
+- [Taneeshpathivada] (https://github.com/taneeshpathivada965) my first contribution
 [Manjith](https://github.com/narayanasettymanjith08-cmyk) My first contribution
 - [sreekar](https://github.com/talankisai) Hello Git
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
